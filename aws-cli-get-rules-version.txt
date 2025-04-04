@@ -1,0 +1,1 @@
+aws wafv2 list-available-managed-rule-group-versions --scope=REGIONAL --vendor-name AWS --name AWSManagedRulesCommonRuleSet

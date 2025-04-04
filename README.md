@@ -1,4 +1,4 @@
-# Udemy Sergii Demianchuk. Source files for the course "How to secure web application with AWS WAF and CloudWatch"
+#Sergii Demianchuk CLOUDWATCH COURSE"
 
 ## Setup
 
